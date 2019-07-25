@@ -54,24 +54,3 @@ npm run build:ssr
 ```Node.js
 npm run build:all
 ```
-
-## 其他
-测试环境
-
-服务器地址： 10.10.100.2
-
-用户名：root
-
-密码：G3Sde1d2
-
-服务器目录： /home/tomcat/node/
-
-预发布环境
-
-服务器地址：10.10.100.113
-
-用户名：tomcat
-
-密码：12354@qwsf
-
-服务器目录： /data/
