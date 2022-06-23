@@ -57,7 +57,7 @@
     "highlight.js": "^9.15.6",
     "history": "^4.7.2",
     "import-inspector": "^2.0.0",
-    "jsdom": "^12.2.0",
+    "jsdom": "^16.5.0",
     "koa": "^2.5.3",
     "koa-better-router": "^2.1.1",
     "koa-body": "^4.0.4",
